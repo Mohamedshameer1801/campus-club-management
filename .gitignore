@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+.env
+.env.*
+!.env.example
+data/*.db
+data/*.db-shm
+data/*.db-wal
+data/test/
+*.tsbuildinfo
+next-env.d.ts
+coverage/
+data/legacy-postgres-export/
